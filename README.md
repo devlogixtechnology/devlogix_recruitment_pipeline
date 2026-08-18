@@ -1,4 +1,4 @@
-# Recruitment Email Ingestion & Trigger
+# Devlogix Recruitment Pipeline
 
 ## Overview
 
