@@ -1,0 +1,12 @@
+venv/
+.env
+
+credentials.json
+token.json
+
+downloads/
+processed_emails.json
+logs/
+
+__pycache__/
+*.pyc
