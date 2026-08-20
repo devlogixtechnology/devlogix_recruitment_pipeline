@@ -1,0 +1,49 @@
+DEVLOGIX - PYTHON DEVELOPER
+
+Job Title:
+Python Developer
+
+Company:
+DevLogix
+
+Job Description:
+
+DevLogix is looking for a motivated Python Developer to join our development team. The ideal candidate should have a strong foundation in Python programming, databases, APIs, and machine learning.
+
+Required Skills:
+
+- Python
+- SQL
+- Machine Learning
+- Git
+- REST APIs
+- Streamlit
+
+Required Experience:
+
+- Experience developing applications using Python.
+- Experience working with SQL databases.
+- Basic understanding or experience with REST APIs.
+- Familiarity with Git and version control.
+- Experience developing or working with machine learning applications.
+- Experience building interactive applications using Streamlit.
+
+Education:
+
+- Bachelor's degree in Computer Science, Software Engineering, Data Science, or a related field is preferred.
+
+Responsibilities:
+
+- Develop and maintain Python-based applications.
+- Work with SQL databases and manage application data.
+- Develop and integrate REST APIs.
+- Build and maintain machine learning applications.
+- Use Git for source-code management and collaboration.
+- Develop interactive data or machine learning applications using Streamlit.
+- Collaborate with team members to design, test, and improve software solutions.
+
+Preferred Qualifications:
+
+- Problem-solving and analytical skills.
+- Good communication and teamwork skills.
+- Familiarity with modern software development practices.

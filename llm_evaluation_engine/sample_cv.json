@@ -1,0 +1,15 @@
+{
+    "name": "Ahmed Raza",
+    "skills": [
+        "HTML",
+        "CSS"
+    ],
+    "education": "Intermediate",
+    "experience": [],
+    "projects": [
+        {
+            "name": "Personal Website",
+            "description": "Created a basic website using HTML and CSS."
+        }
+    ]
+}
